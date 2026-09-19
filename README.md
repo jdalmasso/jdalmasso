@@ -27,7 +27,7 @@ Before this, most of my career was in decision science and applied AI/ML across 
 - Quantitative Researcher, BlackRock Systematic Active Equity (alternative data, NLP, statistical arbitrage; co-led the Data Discovery group)
 - VP Data Science, Point72 (alternative-data alpha across sectors; backtesting and portfolio-optimization infrastructure)
 - Co-founder and COO (previously VP AI and Product Engineering), Nuraxi (privacy-preserving health AI)
-- Co-founder and CEO, Lyta (financial due-diligence AI, acquired)
+- Co-founder and CEO, Lyta (financial due-diligence AI)
 - Earlier data/ML roles at Knotel
 
 ## Get in touch
