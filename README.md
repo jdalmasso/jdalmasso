@@ -32,4 +32,6 @@ Before this, most of my career was in decision science and applied AI/ML across 
 
 ## Get in touch
 
-LinkedIn · Email
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/jacopodalmasso/) · [Email](mailto:jacopo.dalmasso@gmail.com)
